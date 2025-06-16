@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875885911271",
+    "project_id": "tracker-native-df1ec",
+    "storage_bucket": "tracker-native-df1ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875885911271:android:56b3a9e3ceb051c235d642",
+        "android_client_info": {
+          "package_name": "com.mohdshahrukh.moneytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875885911271-g9uqrr76sfgbts044v4b7vlegh0om460.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd8q2mVCoiX1GznJ7gjRIRN3wxGi0EsI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875885911271-g9uqrr76sfgbts044v4b7vlegh0om460.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
